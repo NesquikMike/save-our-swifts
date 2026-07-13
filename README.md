@@ -17,4 +17,4 @@ Then visit [http://localhost:8080](http://localhost:8080).
 - `index.html` — page structure and copy
 - `css/styles.css` — layout and visual design
 - `js/main.js` — navigation and scroll reveals
-- `assets/hero-swifts.jpg` — hero photograph
+- `assets/swifts_at_the_church_more_birds_near_church_tower.jpg` — hero photograph
