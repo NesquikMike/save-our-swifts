@@ -39,7 +39,7 @@
 
   const revealTargets = [
     ...document.querySelectorAll(
-      ".mission__copy > .eyebrow, .mission__copy > h2, .mission__copy > .lead, .mission__copy > .quote, .mission__copy > .chart, .section__inner > .eyebrow, .section__inner > h2, .section__inner > .lead, .section__inner > .section__intro, .aims-list, .stats, .achieve-list, .photo-row, .gallery-row, .event, .dates-block, .advice__grid, .resources, .join__plaque, .join__panel, .photo-band"
+      ".mission__copy > .eyebrow, .mission__copy > h2, .mission__copy > .lead, .mission__copy > .quote, .mission__copy > .chart, .mission__copy > .mission__measure, .section__inner > .eyebrow, .section__inner > h2, .section__inner > .lead, .section__inner > .section__intro, .aims-list, .stats, .achieve-list, .photo-row, .event, .dates-block, .advice__callout, .advice__grounded, .resources, .join__plaque, .join__panel, .photo-band"
     ),
   ];
 
