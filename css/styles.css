@@ -377,7 +377,8 @@ ul {
   border-top: 0;
 }
 
-.section__inner > .eyebrow + h2 {
+.section__inner > .eyebrow + h2,
+.section__inner > h2:first-child {
   padding-bottom: var(--space-sm);
   margin-bottom: var(--space-md);
   border-bottom: 1px solid var(--line);
@@ -562,6 +563,15 @@ ul {
   background: var(--sky);
 }
 
+.aims-extra {
+  margin-top: var(--space-lg);
+  max-width: 48rem;
+}
+
+.aims-extra h3 {
+  color: var(--sky-deep);
+}
+
 /* Achievements */
 
 .stats {
@@ -594,7 +604,7 @@ ul {
   margin: 0;
   color: var(--ink-soft);
   font-size: 0.95rem;
-  max-width: 16ch;
+  max-width: 28ch;
 }
 
 .achieve-list {
